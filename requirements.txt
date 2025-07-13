@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+psycopg2-binary
+prisma
+pydantic
+requests
+google-generativeai
+qdrant-client
+
+apscheduler
+pydantic[email]
+gunicorn
+
